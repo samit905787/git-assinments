@@ -1,8 +1,11 @@
 <html>
 <body>
 <h1>
+<<<<<<< HEAD
 "Hello... All"
+=======
 "Hello====== All"
+>>>>>>> feature2
 </h1>
 </body>
 </html>
